@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TikTacTo_Game</string>
+    <string name="app_name">Tik Tac Toc</string>
+    <string name="author">Bisnu kundu</string>
 </resources>
